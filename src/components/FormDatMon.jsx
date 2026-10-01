@@ -1,6 +1,6 @@
 import {useEffect, useRef} from "react"
 
-function FormDatMon({dsMon, setGio}) {
+function FormDatMon() {
     const hoTenRef = useRef(null)
 
     useEffect(() => {
