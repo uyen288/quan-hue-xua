@@ -30,10 +30,6 @@ function GioHang({ gio, dsMon, onXoaGio }) {
       <div data-testid="tong-tien">
         Tổng tiền: {tongTien.toLocaleString("vi-VN")} đ
       </div>
-
-      <button onClick={onXoaGio}>
-    Xóa giỏ
-</button>
     </div>
   );
 }
