@@ -1,0 +1,58 @@
+export const dsMon = [
+  {
+    id: 1,
+    ten: "Bún bò Huế",
+    moTa: "Nước dùng đậm đà",
+    gia: 40000,
+    daHet: false,
+  },
+  {
+    id: 2,
+    ten: "Cơm hến",
+    moTa: "Cơm trộn với hến xào",
+    gia: 20000,
+    daHet: false,
+  },
+  {
+    id: 3,
+    ten: "Bánh bèo",
+    moTa: "Bánh ngon",
+    gia: 25000,
+    daHet: false,
+  },
+  {
+    id: 4,
+    ten: "Bánh nậm",
+    moTa: "Bánh bột gạo bọc lá dong",
+    gia: 25000,
+    daHet: false,
+  },
+  {
+    id: 5,
+    ten: "Bánh lọc",
+    moTa: "Bánh bột lọc gói lá chuối",
+    gia: 30000,
+    daHet: false,
+  },
+  {
+    id: 6,
+    ten: "Bún nghệ",
+    moTa: "Bún xào lòng heo với nghệ",
+    gia: 25000,
+    daHet: false,
+  },
+  {
+    id: 7,
+    ten: "Bánh khoái",
+    moTa: "Bánh chiên giòn",
+    gia: 35000,
+    daHet: false,
+  },
+  {
+    id: 8,
+    ten: "Chè thịt quay",
+    moTa: "Chè bột lọc bọc thịt heo quay mặn ngọt",
+    gia: 15000,
+    daHet: false,
+  },
+];
